@@ -1,5 +1,6 @@
   const dataApi = {
-	url: "https://sandbox.wallets.africa/self/balance",
+	//url: "https://sandbox.wallets.africa/self/balance",
+	url: "https://api.wallets.africa",
 	WalletBalance:  97900,
 	WalletCurrency: "NGN",
 }
