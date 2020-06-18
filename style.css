@@ -1,0 +1,12 @@
+body {
+	background-color: grey;
+}
+
+.container {
+	margin-left: 250px;
+	color: red;
+}
+
+.dis {
+	color: green;
+}
